@@ -1,0 +1,11 @@
+1) open login page of amazon
+2) create the new GUI for amazon index html 
+3) check the new login page is available for user
+4) check for any new features for amazon 
+5) label it clearly 
+6) add the git command
+7) create the new branck for new features to create the new diwali logo 
+8) push the repo to git repository 
+9) done 
+
+

@@ -2,11 +2,15 @@ let v='narsing';
 let age=30;
 
 function main(fullName){
+
+    i=10;
+    if(i<=100){
+      console.log(i);
+    }
     
     let k=fullName+age;
     return k;
 }
-
 
 console.log(main('narsing'));
 

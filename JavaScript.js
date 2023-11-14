@@ -21,4 +21,11 @@ console.log(b);
 for(i=3; i<b; i++){
     console.log([b]);
 }
+let k=100;
 
+if (k=100){
+  console.log("print the highest number");
+  
+}else{
+  console.log("print the lowest number");
+}

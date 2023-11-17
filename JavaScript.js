@@ -29,3 +29,12 @@ if (k=100){
 }else{
   console.log("print the lowest number");
 }
+ 
+
+let varun= "ramya";
+
+if (z= varun){
+  console.log("data is equal to ramya");
+}else{
+  console.log("data is not permanant");
+}

@@ -8,4 +8,7 @@
 8) push the repo to git repository 
 9) done 
 
+added the features to my code 
+
+
 
